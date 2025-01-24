@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @MasudBinMazid
+- 📫 How to reach me t.me/MasudBinMazid
 - 😄 Pronouns: Masud
 - ⚡ Fun fact: I Love Travelling! 
 
