@@ -1,49 +1,52 @@
-<h1 align="center">Welcome! 👋</h1>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</p>
+## 🌟 About Me
+
+🚀 **Aspiring Data Analyst** | 🎓 **Final-Year CSE Student**
+
+- 🔍 Passionate about **Data Analysis & Visualization**
+- 🐍 Currently learning **Python, Pandas, NumPy, Matplotlib, and SQL**
+- 💡 Always eager to collaborate on exciting projects
+- ✨ Exploring **Machine Learning & Data Science**
 
 ---
 
-## 🌟 About Me  
-🚀 **Aspiring Data Analyst** | 🎓 **Final-Year CSE Student**  
+## 🛠️ Tech Stack
 
-- 🔍 Passionate about **Data Analysis & Visualization**  
-- 🐍 Currently learning **Python, Pandas, NumPy, Matplotlib, and SQL**  
-- 💡 Always eager to collaborate on exciting projects  
-- ✨ Exploring **Machine Learning & Data Science**  
-
----
-
-## 🛠️ Tech Stack  
-
-<div align="center">  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>  
+- 🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Matplotlib | 📉 Seaborn
+- 🛠️ SQL | PostgreSQL | MySQL
+- 📊 Power BI | Tableau | Excel
+- 🌐 Web Scraping | APIs | Data Cleaning
 
 ---
 
-## 📚 Currently Learning  
-- 🔥 Machine Learning & AI  
-- 📊 Advanced Data Visualization  
-- 📝 SQL for Data Analysis  
-- 🛠️ Cloud Computing (AWS, Google Cloud)  
+## 🚀 Featured Projects
+
+- 🔹 [Project Name 1](https://github.com/your-repo) - Short project description  
+- 🔹 [Project Name 2](https://github.com/your-repo) - Another cool project  
+
+🔗 **Portfolio:** [masudbinmazid.dev](#) _(if available)_  
 
 ---
 
-## 🏆 Certifications  
-- 📜 Python for Data Science 
-- 📜 SQL for Data Analysis - [Datacamp]  
-- 📜 Machine Learning Basics  
+## 📚 Currently Learning
+
+- 🔥 Machine Learning & AI
+- 📊 Advanced Data Visualization
+- 📝 SQL for Data Analysis
+- 🛠️ Cloud Computing (AWS, Google Cloud)
 
 ---
 
-## 📈 GitHub Stats  
+## 🏆 Certifications
+
+- 📜 Python for Data Science - Coursera
+- 📜 SQL for Data Analysis - DataCamp
+- 📜 Machine Learning Basics - Kaggle
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MasudBinMazid&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
@@ -52,7 +55,7 @@
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://t.me/MasudBinMazid">
@@ -68,16 +71,16 @@
 
 ---
 
-## 📩 How to Reach Me  
+## 📩 How to Reach Me
+
 📧 Email: [mamun15-5451@diu.edu.bd](mailto:mamun15-5451@diu.edu.bd)  
-💼 LinkedIn: [linkedin.com/in/MasudBinMazid](#) 
----
-
-## ⚡ Fun Fact  
-**I love traveling!** ✈️ Exploring new places, cultures, and food is my thing. 🌍  
+💼 LinkedIn: [linkedin.com/in/MasudBinMazid](#)  
 
 ---
 
-<p align="center">  
-  🔹 *Let's connect and build something awesome together!* 🚀  
-</p>
+## ⚡ Fun Fact
+
+**I love traveling!** ✈️ Exploring new places, cultures, and food is my thing. 🌍
+
+---
+
