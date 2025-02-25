@@ -28,6 +28,38 @@
 
 ---
 
+## 🚀 Featured Projects  
+- 🔹 [Project Name 1](https://github.com/your-repo) - Short project description  
+- 🔹 [Project Name 2](https://github.com/your-repo) - Another cool project  
+
+🔗 **Portfolio:** [masudbinmazid.dev](#) _(if available)_  
+
+---
+
+## 📚 Currently Learning  
+- 🔥 Machine Learning & AI  
+- 📊 Advanced Data Visualization  
+- 📝 SQL for Data Analysis  
+- 🛠️ Cloud Computing (AWS, Google Cloud)  
+
+---
+
+## 🏆 Certifications  
+- 📜 Python for Data Science - [Platform Name]  
+- 📜 SQL for Data Analysis - [Platform Name]  
+- 📜 Machine Learning Basics - [Platform Name]  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MasudBinMazid&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasudBinMazid&theme=tokyonight" width="48%" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 📫 Connect with Me  
 
 <p align="center">
@@ -41,6 +73,12 @@
     <img src="https://img.shields.io/badge/Facebook-MasudBinMazid-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 📩 How to Reach Me  
+📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+💼 LinkedIn: [linkedin.com/in/MasudBinMazid](#) _(if available)_  
 
 ---
 
