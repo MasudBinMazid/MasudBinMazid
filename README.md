@@ -20,15 +20,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔹 [Project Name 1](https://github.com/your-repo) - Short project description  
-- 🔹 [Project Name 2](https://github.com/your-repo) - Another cool project  
-
-🔗 **Portfolio:** [masudbinmazid.dev](#) _(if available)_  
-
----
-
 ## 📚 Currently Learning
 
 - 🔥 Machine Learning & AI
