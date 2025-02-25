@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Masud Bin Mazid! 👋</h1>
+<h1 align="center">Welcome! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -77,7 +77,7 @@
 ---
 
 ## 📩 How to Reach Me  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+📧 Email: [mamun15-5451@diu.edu.bd](mailto:mamun15-5451@diu.edu.bd)  
 💼 LinkedIn: [linkedin.com/in/MasudBinMazid](#) _(if available)_  
 
 ---
