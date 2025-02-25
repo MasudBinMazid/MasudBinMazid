@@ -28,14 +28,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-- 🔹 [Project Name 1](https://github.com/your-repo) - Short project description  
-- 🔹 [Project Name 2](https://github.com/your-repo) - Another cool project  
-
-🔗 **Portfolio:** [masudbinmazid.dev](#) _(if available)_  
-
----
-
 ## 📚 Currently Learning  
 - 🔥 Machine Learning & AI  
 - 📊 Advanced Data Visualization  
@@ -45,9 +37,9 @@
 ---
 
 ## 🏆 Certifications  
-- 📜 Python for Data Science - [Platform Name]  
-- 📜 SQL for Data Analysis - [Platform Name]  
-- 📜 Machine Learning Basics - [Platform Name]  
+- 📜 Python for Data Science 
+- 📜 SQL for Data Analysis - [Datacamp]  
+- 📜 Machine Learning Basics  
 
 ---
 
