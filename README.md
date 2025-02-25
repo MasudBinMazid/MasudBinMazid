@@ -70,8 +70,7 @@
 
 ## 📩 How to Reach Me  
 📧 Email: [mamun15-5451@diu.edu.bd](mailto:mamun15-5451@diu.edu.bd)  
-💼 LinkedIn: [linkedin.com/in/MasudBinMazid](#) _(if available)_  
-
+💼 LinkedIn: [linkedin.com/in/MasudBinMazid](#) 
 ---
 
 ## ⚡ Fun Fact  
