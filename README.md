@@ -1,4 +1,4 @@
-# Hi there, I'm Masud Bin Mazid! 👋
+# Hi there, I'm Masud Bin Mazid! 👋  
 
 ## 🌟 About Me  
 - 🎓 Final-year CSE student with a passion for **Data Analysis**  
@@ -9,6 +9,7 @@
 ## 📫 Connect with Me  
 [![Telegram](https://img.shields.io/badge/Telegram-%40MasudBinMazid-blue?logo=telegram)](https://t.me/MasudBinMazid)  
 [![GitHub](https://img.shields.io/badge/GitHub-MasudBinMazid-black?logo=github)](https://github.com/MasudBinMazid)  
+[![Facebook](https://img.shields.io/badge/Facebook-MasudBinMazid-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/MasudBinMazid)  
 
 ## ⚡ Fun Fact  
 I **love traveling**! ✈️ Exploring new places, cultures, and food is my thing.  
