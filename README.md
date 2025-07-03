@@ -6,7 +6,7 @@
   <a href="https://t.me/MasudBinMazid">
     <img src="https://img.shields.io/badge/Telegram-%40MasudBinMazid-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/MasudBinMazid">
+  <a href="https://masudbinmazid.github.io/github_readme/">
     <img src="https://img.shields.io/badge/GitHub-MasudBinMazid-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/masudbinmazid"> <img src="https://img.shields.io/badge/LinkedIn-MasudBinMazid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
