@@ -25,19 +25,17 @@
 <p align="center">
   Hello there! I'm a final-year Computer Science and Engineering student with a deep passion for uncovering stories hidden within data. 🚀
   <br/><br/>
-  - 🔭 I’m currently working on a **[Your Project Name]** project that involves **[Briefly describe the project]**.
   <br/>
   - 🌱 I’m currently learning about **Advanced SQL techniques and Machine Learning algorithms**.
   <br/>
   - 👯 I’m looking to collaborate on **open-source data analysis projects**.
   <br/>
-  - 🤔 I’m looking for help with **[A specific challenge or topic]**.
   <br/>
   - 💬 Ask me about **Python for data science, data visualization, or web scraping**.
   <br/>
-  - 📫 How to reach me: **[mamun15-5451@diu.edu.bd](mailto:mamun15-5451@diu.edu.bd)**
+  
   <br/>
-  - ⚡ Fun fact: **I believe every dataset has a unique personality!**
+**I believe every dataset has a unique personality!**
 </p>
 
 <div id="user-content-toc">
